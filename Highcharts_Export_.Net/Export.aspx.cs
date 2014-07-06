@@ -1,13 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Configuration;
-using System.Linq;
-using System.Web;
-using System.Web.Security;
-using System.Web.UI;
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-using System.Web.UI.WebControls.WebParts;
 using System.IO;
 using Svg;
 using System.Drawing.Imaging;
@@ -15,9 +6,9 @@ using iTextSharp.text;
 using iTextSharp.text.pdf;
 using System.Text;
 
-namespace highchart_export_module_asp_net
+namespace Highcharts_Export_.Net
 {
-    public partial class highcharts_export : System.Web.UI.Page
+    public partial class Export : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

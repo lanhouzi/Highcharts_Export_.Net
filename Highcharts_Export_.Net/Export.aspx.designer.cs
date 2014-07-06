@@ -7,10 +7,10 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Highchart_Export_.Net {
+namespace Highcharts_Export_.Net {
     
     
-    public partial class highcharts_export {
+    public partial class Export {
         
         /// <summary>
         /// form1 控件。
